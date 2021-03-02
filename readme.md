@@ -6,3 +6,5 @@ This is my second line
 adding from master
 
 adding from child
+
+this is bad
