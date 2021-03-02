@@ -7,4 +7,5 @@ adding from master
 
 adding from child
 
+this is bad
 this is good
