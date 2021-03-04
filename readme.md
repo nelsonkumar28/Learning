@@ -9,3 +9,5 @@ adding from child
 
 this is bad
 this is good
+
+testing for stash
